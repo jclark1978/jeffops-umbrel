@@ -4,10 +4,10 @@ name: Rook Room
 tagline: Good friends, bad bids, great memories
 icon: https://svgur.com/i/mvA.svg
 category: Development
-version: "1.0.1"
-port: 4000
+version: "1.0.2"
+port: 3001
 description: >-
-  Add your app's description here.
+  Rook card game
 
 
   You can also add newlines!
@@ -15,7 +15,7 @@ description: >-
 developer: Umbrel
 website: https://umbrel.com
 submitter: jeffops
-submission: https://github.com/jclark1978/rook
+submission: https://github.com/jclark1978/rook/
 repo: https://github.com/jclark1978/rook
 support: https://github.com/getumbrel/umbrel-hello-world-app/issues
 gallery:
