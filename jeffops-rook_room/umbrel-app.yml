@@ -3,14 +3,11 @@ id: jeffops-rook_room
 name: Rook Room
 tagline: Good friends, bad bids, great memories
 icon: https://svgur.com/i/mvA.svg
-category: Development
-version: "1.0.5"
+category: developer
+version: "1.0.6"
 port: 3001
 description: >-
-  Rook card game
-
-
-  You can also add newlines!
+  Rook card game.
 
 developer: JeffOps
 website: https://github.com/jclark1978/rook
@@ -20,10 +17,8 @@ repo: https://github.com/jclark1978/rook
 support: https://github.com/jclark1978/rook/issues
 gallery:
   - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
 releaseNotes: >-
-  Add what's new in the latest version of your app here.
+  Fixed Umbrel app metadata and proxy alignment.
 dependencies: []
 path: ""
 defaultUsername: ""
