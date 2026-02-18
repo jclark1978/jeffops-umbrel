@@ -4,7 +4,7 @@ name: Rook Room
 tagline: Good friends, bad bids, great memories
 icon: https://svgur.com/i/mvA.svg
 category: Development
-version: "1.0.4"
+version: "1.0.5"
 port: 3001
 description: >-
   Rook card game
@@ -12,12 +12,12 @@ description: >-
 
   You can also add newlines!
 
-developer: Umbrel
-website: https://umbrel.com
+developer: JeffOps
+website: https://github.com/jclark1978/rook
 submitter: jeffops
-submission: https://github.com/jclark1978/rook/
+submission: https://github.com/jclark1978/rook
 repo: https://github.com/jclark1978/rook
-support: https://github.com/getumbrel/umbrel-hello-world-app/issues
+support: https://github.com/jclark1978/rook/issues
 gallery:
   - https://i.imgur.com/yyVG0Jb.jpeg
   - https://i.imgur.com/yyVG0Jb.jpeg
