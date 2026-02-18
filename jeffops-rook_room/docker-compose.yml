@@ -1,0 +1,16 @@
+version: "3.7"
+
+services:
+
+  app_proxy:
+    environment:
+      # The format here is: <app-id>_<docker-service-name>_1
+      #APP_HOST: sparkles-hello-world_server_1
+      APP_HOST: jeffops-rook_room_server_1
+      APP_PORT: 3001
+    
+  server:
+    #image: getumbrel/community-app-store-hello-world:latest
+    image: getumbrel/community-app-store-rook_room:latest
+    user: "1000:1000"
+    init: true
