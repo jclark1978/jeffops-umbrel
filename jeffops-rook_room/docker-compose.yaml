@@ -3,7 +3,7 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    image: rook-online:latest
+    image: https://hub.docker.com/repositories/jclark1978/rook:latest
     container_name: rook-online
     restart: unless-stopped
     environment:
