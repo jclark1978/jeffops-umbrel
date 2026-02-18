@@ -1,0 +1,15 @@
+version: "3.7"
+
+services:
+  app_proxy:
+    environment:
+      APP_HOST: jeffops-rook-room_web_1
+      APP_PORT: 3001
+
+  web:
+    image: jclark1978/rook:latest
+    restart: on-failure
+    stop_grace_period: 1m
+    environment:
+      PORT: 3001
+      NODE_ENV: production
