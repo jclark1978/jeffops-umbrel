@@ -4,7 +4,7 @@ name: Rook Room
 tagline: Good friends, bad bids, great memories
 icon: https://svgur.com/i/mvA.svg
 category: Development
-version: "1.0.0"
+version: "1.0.1"
 port: 4000
 description: >-
   Add your app's description here.
