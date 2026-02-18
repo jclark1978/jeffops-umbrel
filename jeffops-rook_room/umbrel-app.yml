@@ -4,7 +4,7 @@ name: Rook Room
 tagline: Good friends, bad bids, great memories
 icon: https://svgur.com/i/mvA.svg
 category: developer
-version: "1.0.6"
+version: "1.0.7"
 port: 3001
 description: >-
   Rook card game.
@@ -16,9 +16,10 @@ submission: https://github.com/jclark1978/rook
 repo: https://github.com/jclark1978/rook
 support: https://github.com/jclark1978/rook/issues
 gallery:
-  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://github.com/jclark1978/jeffops-umbrel/blob/master/jeffops-rook_room/rook_icon.png
 releaseNotes: >-
   Fixed Umbrel app metadata and proxy alignment.
+  Added rook Icon
 dependencies: []
 path: ""
 defaultUsername: ""
