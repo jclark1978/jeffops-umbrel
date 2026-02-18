@@ -4,7 +4,7 @@ name: Rook Room
 tagline: Good friends, bad bids, great memories
 icon: https://svgur.com/i/mvA.svg
 category: developer
-version: "1.0.7"
+version: "1.0.8"
 port: 3001
 description: >-
   Rook card game.
@@ -18,8 +18,7 @@ support: https://github.com/jclark1978/rook/issues
 gallery:
   - https://github.com/jclark1978/jeffops-umbrel/blob/master/jeffops-rook_room/rook_icon.png
 releaseNotes: >-
-  Fixed Umbrel app metadata and proxy alignment.
-  Added rook Icon
+  Fixed issue with naming convention in docker-compose.yml
 dependencies: []
 path: ""
 defaultUsername: ""
